@@ -47,7 +47,7 @@
 
 <br />
 
-#### 🍕 [Dinn Pizzas](https://github.com/DiegoFonsca/dinn-pizzas)
+#### 🍕 [Dinn Pizzas](https://diegofonsca.github.io/DinPizzas/)
 
 > **Sistema Web para Pizzaria**  
 > Aplicação interativa para gerenciamento e apresentação do cardápio digital, focada em performance e usabilidade.
