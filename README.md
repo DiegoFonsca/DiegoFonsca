@@ -6,7 +6,7 @@
  🛡️ _Especialista em Cybersegurança & Big Data | Scrum Master (PSM I)_  
  📍 São Gonçalo, Rio de Janeiro - Brasil
 
-[🌐 LinkedIn](https://www.linkedin.com/in/dev-diego-fonseca/) • [📧 E-mail](mailto:diegofonsca.25@gmail.com)
+[🌐 LinkedIn](https://www.linkedin.com/in/dev-diego-fonseca/) • [📧 diegofonsca.25@gmail.com](mailto:diegofonsca.25@gmail.com)
 
 </div>
 
