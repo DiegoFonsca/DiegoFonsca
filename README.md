@@ -1,16 +1,18 @@
 <div align="center">
 
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&text=Olá,%20mundo!%20Sou%20o%20Diego%20Fonseca%20👋&fontSize=30&fontAlignY=35&animation=twinkling" width="100%" alt="Header Animado" />
-</div>
-
-  <br />
+# ⚡ Olá, mundo! Sou o Diego Fonseca 👋
 
 🎓 **Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA**  
- 🛡️ _Especialista em Ciência de Dados, Cybersegurança & Arquitetura_  
- 📍 São Gonçalo, Rio de Janeiro - Brasil
+🛡️ _Especialista em Ciência de Dados, Cybersegurança & Arquitetura_  
+📍 São Gonçalo, Rio de Janeiro - Brasil
 
 [🌐 LinkedIn](https://www.linkedin.com/in/dev-diego-fonseca/) • [📧 diegofonsca.25@gmail.com](mailto:diegofonsca.25@gmail.com)
+
+<br />
+
+![](https://img.shields.io/badge/Focus-Software_Architecture-purple?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Specialty-Data_Engineering_%26_AI-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Security-Cybersecurity-red?style=for-the-badge&logo=kali-linux)
 
 </div>
 
