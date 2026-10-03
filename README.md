@@ -1,16 +1,19 @@
 <div align="center">
 
-# ⚡ Diego Fonseca
+  <!-- Nome com efeito de Máquina de Escrever e Cursor Piscando -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&lines=Diego+Fonseca%7C" alt="Diego Fonseca Typing Animation" />
+  </a>
 
-### 🎓 Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA
+  <br />
 
-📍 **São Gonçalo, Rio de Janeiro - Brasil**
+🎓 **Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA**  
+ 🛡️️ _Especialista em Ciência de Dados, Cybersegurança & Arquitetura_  
+ 📍 São Gonçalo, Rio de Janeiro - Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-diego-fonseca/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegofonsca.25@gmail.com)
-[![Scrum Master](https://img.shields.io/badge/Scrum-PSM_I-blue?style=for-the-badge&logo=scrumAlliance&logoColor=white)](https://www.scrum.org/)
+[🌐 LinkedIn](https://www.linkedin.com/in/dev-diego-fonseca/) • [📧 diegofonsca.25@gmail.com](mailto:diegofonsca.25@gmail.com)
 
-<br />
+  <br />
 
 ![](https://img.shields.io/badge/Focus-Software_Architecture-purple?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Specialty-Data_Engineering_%26_AI-blue?style=for-the-badge&logo=python)
@@ -76,9 +79,5 @@
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DiegoFonsca&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFonsca&layout=compact&theme=dark&hide=html,css" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoFonsca&theme=dark" alt="GitHub Streak" />
 
 </div>
