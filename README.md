@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Olá, mundo! Sou o Diego Fonseca 👋
+# Olá, Mundo! Sou o Diego Fonseca 👋
 
 🎓 **Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA**  
 🛡️ _Especialista em Ciência de Dados, Cybersegurança & Arquitetura_  
