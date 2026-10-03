@@ -35,21 +35,10 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-
-**Linguagens & Backend**  
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,flask,js,html,css,github,git" />
-</a>
-
-<br />
-
-**Engenharia de Dados, IA & Cloud**  
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,spark,aws,wordpress" />
-</a>
-
-</div>
+- **Linguagens & Backend:** Python, Flask, JavaScript, HTML5, CSS3, Tkinter
+- **Engenharia & Ciência de Dados:** Apache Spark, Apache Kafka, PySpark, PostgreSQL, MySQL, SQL, NoSQL, Pandas, NumPy
+- **IA & Cloud:** Machine Learning, Análise de Dados, Python para IA, AWS (em preparação)
+- **Ferramentas & Metodologias:** Git, GitHub, Scrum (PSM I), Kanban, WordPress
 
 ---
 
