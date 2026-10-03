@@ -1,8 +1,8 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Olá%2C+mundo!+Sou+o+Diego+Fonseca+👋;Arquiteto+de+Software+%7C+Engenheiro+de+Dados;Especialista+em+Ciência+de+Dados+%26+Cyber" alt="Typing SVG" />
-  </a>
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&text=Olá,%20mundo!%20Sou%20o%20Diego%20Fonseca%20👋&fontSize=30&fontAlignY=35&animation=twinkling" width="100%" alt="Header Animado" />
+</div>
 
   <br />
 
