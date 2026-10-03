@@ -1,12 +1,14 @@
 <div align="center">
 
-# Olá, Mundo! Sou o Diego Fonseca 👋
+# ⚡ Diego Fonseca
 
-🎓 **Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA**  
-🛡️ _Especialista em Ciência de Dados, Cybersegurança & Arquitetura_  
-📍 São Gonçalo, Rio de Janeiro - Brasil
+### 🎓 Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA
 
-[🌐 LinkedIn](https://www.linkedin.com/in/dev-diego-fonseca/) • [📧 diegofonsca.25@gmail.com](mailto:diegofonsca.25@gmail.com)
+📍 **São Gonçalo, Rio de Janeiro - Brasil**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-diego-fonseca/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegofonsca.25@gmail.com)
+[![Scrum Master](https://img.shields.io/badge/Scrum-PSM_I-blue?style=for-the-badge&logo=scrumAlliance&logoColor=white)](https://www.scrum.org/)
 
 <br />
 
@@ -24,19 +26,27 @@
 - 📚 Pós-graduando em **Arquitetura de Software, Cybersegurança e Ciência de Dados** (PUCRS).
 - 🤖 Pós-graduando em **Engenharia de Dados e Inteligência Artificial**.
 - 📜 Certificado **Scrum Master (PSM I)** pela Scrum.org.
-- 💡 Foco em arquiteturas escaláveis, pipelines/ciência de dados, segurança da informação e soluções inteligentes.
+- 💡 Foco no desenvolvimento de arquiteturas distribuídas e escaláveis, pipelines de dados, segurança da informação e soluções orientadas a IA.
 
 ---
 
-### 🛠️ Stack Técnica & Especialidades
+### 🛠️ Tecnologias & Ferramentas
 
-| Domínio                           | Tecnologias & Ferramentas                                       |
-| :-------------------------------- | :-------------------------------------------------------------- |
-| **Linguagens & Backend**          | Python, Flask, JavaScript, HTML5, CSS3, Tkinter                 |
-| **Engenharia & Ciência de Dados** | Apache Spark, Apache Kafka, PySpark, SQL, NoSQL, Pandas, NumPy  |
-| **IA & Data Science**             | Machine Learning, Análise de Dados, Python para IA              |
-| **Cybersegurança & Arquitetura**  | Arquitetura de Software, Segurança da Informação, Boas Práticas |
-| **Gestão & Metodologias**         | Gestão de TI, Scrum (PSM I), Kanban, Git & GitHub, WordPress    |
+<div align="center">
+
+**Linguagens & Backend**  
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,flask,js,html,css,github,git" />
+</a>
+
+<br />
+
+**Engenharia de Dados, IA & Cloud**  
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,spark,aws,wordpress" />
+</a>
+
+</div>
 
 ---
 
@@ -44,7 +54,7 @@
 
 <div align="center">
 
-|                       🍔 Fran-Burguer (Aplicação Web)                        |                       🛍 Sua Sacola (Jogo 2D em Pygame)                       |
+|                       🍔 Fran-Burguer (Aplicação Web)                        |                       🛍️ Sua Sacola (Jogo 2D em Pygame)                       |
 | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 | <img src="./fran-burguer.gif" width="400" alt="Demonstração Fran-Burguer" /> | <img src="./sua-sacola.gif" width="400" alt="Demonstração Jogo Sua Sacola" /> |
 |      [🔗 Ver Repositório](https://github.com/DiegoFonsca/fran-burguer)       |        [🔗 Ver Repositório](https://github.com/DiegoFonsca/sua-sacola)        |
@@ -56,13 +66,19 @@
 #### 🍕 [Dinn Pizzas](https://diegofonsca.github.io/DinPizzas/)
 
 > **Sistema Web para Pizzaria**  
-> Aplicação interativa para gerenciamento e apresentação do cardápio digital, focada em performance e usabilidade.
+> Aplicação interativa para gerenciamento e apresentação do cardápio digital, focada em performance, design responsivo e usabilidade.
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Estatísticas & Atividade
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoFonsca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFonsca&layout=compact&theme=dark&hide=html,css"/>
-</p>
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DiegoFonsca&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFonsca&layout=compact&theme=dark&hide=html,css" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoFonsca&theme=dark" alt="GitHub Streak" />
+
+</div>
