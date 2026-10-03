@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Nome com efeito de Máquina de Escrever e Cursor Piscando -->
+  <!-- Nome com efeito de Máquina de Escrever em PRETO -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&lines=Diego+Fonseca%7C" alt="Diego Fonseca Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=000000&center=true&vCenter=true&width=550&lines=Ol%C3%A1+Mundo%2C+Sou+o+Diego+Fonseca%7C" alt="Olá Mundo, Sou o Diego Fonseca" />
   </a>
 
   <br />
 
 🎓 **Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA**  
- 🛡️️ _Especialista em Ciência de Dados, Cybersegurança & Arquitetura_  
+ 🛡️ _Especialista em Ciência de Dados, Cybersegurança & Arquitetura_  
  📍 São Gonçalo, Rio de Janeiro - Brasil
 
 [🌐 LinkedIn](https://www.linkedin.com/in/dev-diego-fonseca/) • [📧 diegofonsca.25@gmail.com](mailto:diegofonsca.25@gmail.com)
