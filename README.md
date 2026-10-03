@@ -1,11 +1,6 @@
 <div align="center">
 
-  <!-- Nome com efeito de Máquina de Escrever em PRETO -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=000000&center=true&vCenter=true&width=550&lines=Ol%C3%A1+Mundo%2C+Sou+o+Diego+Fonseca%7C" alt="Olá Mundo, Sou o Diego Fonseca" />
-  </a>
-
-  <br />
+# Olá Mundo, eu sou o Diego Fonseca 👋
 
 🎓 **Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA**  
  🛡️ _Especialista em Ciência de Dados, Cybersegurança & Arquitetura_  
