@@ -2,17 +2,17 @@
 
 # Olá Mundo, eu sou o Diego Fonseca 👋
 
-🎓 **Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA**  
- 🛡️ _Especialista em Ciência de Dados, Cybersecurity & Arquitetura_  
+💻 **Desenvolvedor Back-end Júnior | Python e SQL Server**  
+ 🎓 _Pós-graduando em Arquitetura de Software, Ciência de Dados e Cybersecurity (PUCPR)_  
  📍 São Gonçalo, Rio de Janeiro - Brasil
 
 [🌐 LinkedIn](https://www.linkedin.com/in/dev-diego-fonseca/) • [📧 diegofonsca.25@gmail.com](mailto:diegofonsca.25@gmail.com)
 
   <br />
 
-![](https://img.shields.io/badge/Focus-Software_Architecture-purple?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Specialty-Data_Engineering_%26_AI-blue?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Security-Cybersecurity-red?style=for-the-badge&logo=kali-linux)
+![](https://img.shields.io/badge/Focus-Back--end_Development-purple?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Database-SQL_Server-red?style=for-the-badge&logo=microsoftsqlserver)
 
 </div>
 
@@ -20,24 +20,39 @@
 
 ### 🚀 Sobre Mim
 
+Sou graduado em Gestão da Tecnologia da Informação e estou em transição para o desenvolvimento back-end, vindo de 4 anos como designer gráfico. Isso me deu atenção a detalhe, prazos curtos e contato direto com o cliente.
+
+Hoje estudo e pratico principalmente **Python, SQL e construção de APIs**, e busco minha primeira oportunidade como **desenvolvedor back-end júnior ou estágio**.
+
 - 🎓 Graduado em **Gestão da Tecnologia da Informação**.
-- 📚 Pós-graduando em **Arquitetura, Ciência de Dados e Cybersecurity** (PUCPR).
-- 🤖 Pós-graduando em **Engenharia de Dados e Inteligência Artificial**.
-- 📜 Certificado **Scrum Master (PSM I)** pela Scrum.org.
-- 💡 Foco no desenvolvimento de arquiteturas distribuídas e escaláveis, pipelines de dados, segurança da informação e soluções orientadas a IA.
+- 📚 Pós-graduando em **Arquitetura de Software, Ciência de Dados e Cybersecurity** (PUCPR, 2026–2027).
+- 📜 Certificado **Professional Scrum Master I (PSM I)** pela Scrum.org.
+- 📜 Certificado **SQL Server** pela Hashtag Treinamentos.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens & Backend:** Python, Flask, JavaScript, HTML5, CSS3, Tkinter
-- **Engenharia & Ciência de Dados:** Apache Spark, Apache Kafka, PySpark, PostgreSQL, MySQL, SQL, NoSQL, Pandas, NumPy
-- **IA & Cloud:** Machine Learning, Análise de Dados, Python para IA, AWS (em preparação)
-- **Ferramentas & Metodologias:** Git, GitHub, Scrum (PSM I), Kanban, WordPress
+- **Linguagens:** Python, JavaScript, HTML5, CSS3
+- **Banco de dados:** SQL Server, SQL
+- **Ferramentas & Metodologias:** Git, GitHub, Scrum (PSM I), Kanban
+
+**Estudando agora:** FastAPI, PostgreSQL, Docker, testes automatizados com pytest e conceitos de arquitetura de software.
 
 ---
 
 ### 📌 Projetos em Destaque
+
+<!--
+🚧 Quando a API estiver pronta, apague esta linha e a última linha deste comentário,
+preencha os campos e ela aparece aqui.
+
+#### 🚀 [Nome da API](https://github.com/DiegoFonsca/nome-do-repo)
+
+> **API REST em Python**
+> Descrever em uma linha o que ela faz, com autenticação JWT, banco relacional, testes automatizados e documentação via Swagger.
+> `Python` `FastAPI` `PostgreSQL` `Docker`
+-->
 
 <div align="center">
 
@@ -52,8 +67,19 @@
 
 #### 🍕 [Dinn Pizzas](https://diegofonsca.github.io/DinPizzas/)
 
-> **Sistema Web para Pizzaria**  
-> Aplicação interativa para gerenciamento e apresentação do cardápio digital, focada em performance, design responsivo e usabilidade.
+> **Cardápio digital para pizzaria**  
+> Aplicação web responsiva, focada em design e usabilidade.
+
+#### 🏥 [Clínica Médica](https://github.com/DiegoFonsca/clinica-medica)
+
+> **Sistema de agendamento de consultas**  
+> Projeto desenvolvido durante o curso Full Stack da Hashtag Treinamentos.
+
+---
+
+### 📫 Contato
+
+Estou aberto a vagas de **desenvolvedor back-end júnior** e estágio. Se quiser trocar uma ideia sobre tecnologia ou carreira, me chama no [LinkedIn](https://www.linkedin.com/in/dev-diego-fonseca/).
 
 ---
 
