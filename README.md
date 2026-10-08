@@ -43,17 +43,6 @@ Hoje estudo e pratico principalmente **Python, SQL e construção de APIs**, e b
 
 ### 📌 Projetos em Destaque
 
-<!--
-🚧 Quando a API estiver pronta, apague esta linha e a última linha deste comentário,
-preencha os campos e ela aparece aqui.
-
-#### 🚀 [Nome da API](https://github.com/DiegoFonsca/nome-do-repo)
-
-> **API REST em Python**
-> Descrever em uma linha o que ela faz, com autenticação JWT, banco relacional, testes automatizados e documentação via Swagger.
-> `Python` `FastAPI` `PostgreSQL` `Docker`
--->
-
 <div align="center">
 
 |                       🍔 Fran-Burguer (Aplicação Web)                        |                       🛍️ Sua Sacola (Jogo 2D em Pygame)                       |
