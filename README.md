@@ -3,7 +3,7 @@
 # Olá Mundo, eu sou o Diego Fonseca 👋
 
 🎓 **Gestor de TI | Arquiteto de Software | Engenheiro de Dados & IA**  
- 🛡️ _Especialista em Ciência de Dados, Cybersegurança & Arquitetura_  
+ 🛡️ _Especialista em Ciência de Dados, Cybersecurity & Arquitetura_  
  📍 São Gonçalo, Rio de Janeiro - Brasil
 
 [🌐 LinkedIn](https://www.linkedin.com/in/dev-diego-fonseca/) • [📧 diegofonsca.25@gmail.com](mailto:diegofonsca.25@gmail.com)
@@ -21,7 +21,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Graduado em **Gestão da Tecnologia da Informação**.
-- 📚 Pós-graduando em **Arquitetura de Software, Cybersegurança e Ciência de Dados** (PUCRS).
+- 📚 Pós-graduando em **Arquitetura, Ciência de Dados e Cybersecurity** (PUCPR).
 - 🤖 Pós-graduando em **Engenharia de Dados e Inteligência Artificial**.
 - 📜 Certificado **Scrum Master (PSM I)** pela Scrum.org.
 - 💡 Foco no desenvolvimento de arquiteturas distribuídas e escaláveis, pipelines de dados, segurança da informação e soluções orientadas a IA.
