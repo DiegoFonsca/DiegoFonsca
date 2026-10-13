@@ -20,7 +20,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou graduado em Gestão da Tecnologia da Informação e estou em transição para o desenvolvimento back-end, vindo de 4 anos como designer gráfico. Isso me deu atenção a detalhe, prazos curtos e contato direto com o cliente.
+Sou graduado em Gestão da Tecnologia da Informação e estou em transição para o desenvolvimento back-end, vindo de mais de 10 anos como designer gráfico. Isso me deu atenção a detalhe, prazos curtos e contato direto com o cliente.
 
 Hoje estudo e pratico principalmente **Python, SQL e construção de APIs**, e busco minha primeira oportunidade como **desenvolvedor back-end júnior ou estágio**.
 
